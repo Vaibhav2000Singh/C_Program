@@ -1,3 +1,4 @@
+//Author:vaibhav
 #include <stdio.h>  
 int main() 
 {
